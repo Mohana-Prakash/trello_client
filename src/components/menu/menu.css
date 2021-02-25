@@ -1,0 +1,248 @@
+body {
+  margin: 0;
+}
+.menu-nav {
+  background: #026aa7;
+  padding: 5px 5px 2px 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.listicon {
+  color: white;
+  background-color: #4e97c2;
+  padding: 4px;
+  border-radius: 4px;
+}
+.listicon:hover {
+  cursor: pointer;
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.homeicon {
+  padding: 4px;
+  border-radius: 4px;
+  margin-left: 5px;
+  color: white;
+}
+.homeicon:hover {
+  cursor: pointer;
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.dashboardicon {
+  background-color: #4e97c2;
+  padding: 4px;
+  border-radius: 4px;
+  margin-left: 5px;
+  color: white;
+}
+.dashboardicon:hover {
+  cursor: pointer;
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.searchicon {
+  background-color: #4e97c2;
+  padding: 4px 4px 4px 160px;
+  border-radius: 4px;
+  margin-left: 5px;
+  color: white;
+}
+.searchicon:hover {
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.trello {
+  margin: 0;
+  padding: 6px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.trello-logo {
+  width: 8%;
+  color: white;
+}
+.addicon {
+  background-color: #4e97c2;
+  padding: 4px;
+  border-radius: 4px;
+  color: white;
+}
+.addicon:hover {
+  cursor: pointer;
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.infoicon {
+  background-color: #4e97c2;
+  padding: 4px;
+  border-radius: 4px;
+  margin-left: 5px;
+  color: white;
+}
+.infoicon:hover {
+  cursor: pointer;
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.notifyicon {
+  background-color: #4e97c2;
+  padding: 4px;
+  border-radius: 4px;
+  margin-left: 5px;
+  color: white;
+}
+.notifyicon:hover {
+  cursor: pointer;
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.avataricon {
+  background-color: #4e97c2;
+  padding: 4px;
+  border-radius: 4px;
+  margin-left: 5px;
+  color: white;
+}
+.avataricon:hover {
+  cursor: pointer;
+  background-color: hsla(0, 0%, 100%, 0.2);
+}
+.menu-body {
+  display: flex;
+  width: 86%;
+}
+.menu-body-left {
+  margin-left: 10%;
+}
+.menu-body-right {
+  margin-left: 10%;
+}
+.menu-option {
+  list-style: none;
+  margin-top: 10px;
+  padding: 8px;
+  font-weight: 600;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+.menu-option:hover {
+  background-color: lightgrey;
+  cursor: pointer;
+}
+.menu-body-right {
+  display: flex;
+}
+.card-link {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+.card {
+  width: 185px;
+  position: relative;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.card-img {
+  width: 100%;
+}
+.imgs {
+  width: 100%;
+}
+.template {
+  position: absolute;
+  bottom: -10px;
+  color: white;
+  left: 10px;
+}
+.menu-teams {
+  display: flex;
+  width: 82%;
+  margin: auto;
+  margin-top: 20px;
+}
+.menu-teams p {
+  margin-top: 0;
+  font-size: 12px;
+  font-family: sans-serif;
+}
+.teams-addicon {
+  margin-left: 100px;
+  font-size: 15px !important;
+}
+.menu-team-modal {
+  width: 90%;
+  margin: 40px auto;
+}
+.modal-main-div {
+  display: flex;
+  background-color: white;
+}
+.modal-div-left {
+  width: 50%;
+}
+.modal-div-left1 {
+  width: 60%;
+  margin: auto;
+  padding: 20px 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans,
+    Ubuntu, Droid Sans, Helvetica Neue, sans-serif;
+}
+.modal-div-left1 h2 {
+  font-size: 23px;
+  margin-bottom: 8px;
+}
+.modal-div-left1 p {
+  margin-top: 0;
+  color: gray;
+  letter-spacing: 0.8px;
+}
+.modal-div-left1 h6 {
+  margin-bottom: 6px;
+  font-size: 12px;
+  margin-top: 18px;
+}
+.modal-div-left1 h6 span {
+  color: grey;
+}
+.modal-div-left1 input {
+  width: 93.5%;
+  font-size: 14px;
+  padding: 10px;
+  margin-bottom: 8px;
+}
+.input-down-para {
+  font-size: 11px;
+  margin-top: 60px;
+}
+.modal-div-left1 select {
+  width: 100%;
+  font-size: 14px;
+  padding: 10px;
+}
+.modal-div-left1 textarea {
+  width: 98%;
+  padding: 6px 0 150px 6px;
+  color: gray;
+}
+.modal-div-left1 button {
+  width: 100%;
+  padding: 16px;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  color: gray;
+}
+.modal-div-left1 button:hover {
+  cursor: pointer;
+}
+.modal-div-right {
+  width: 50%;
+  background-image: url("./Back.svg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+.close-modal:hover {
+  cursor: pointer;
+}

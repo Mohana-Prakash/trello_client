@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9044cdec.chunk.css",
+    "main.js": "/static/js/main.a3bf3707.chunk.js",
+    "main.js.map": "/static/js/main.a3bf3707.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.00070426.js",
+    "runtime~main.js.map": "/static/js/runtime~main.00070426.js.map",
+    "static/js/2.83696ff5.chunk.js": "/static/js/2.83696ff5.chunk.js",
+    "static/js/2.83696ff5.chunk.js.map": "/static/js/2.83696ff5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6eb6c4ffd2b28391162dca1d0de90097.js": "/precache-manifest.6eb6c4ffd2b28391162dca1d0de90097.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9044cdec.chunk.css.map": "/static/css/main.9044cdec.chunk.css.map",
+    "static/media/menu.css": "/static/media/Back.ea3d17e9.svg",
+    "static/media/board.svg": "/static/media/board.61cf76fd.svg",
+    "static/media/chat.css": "/static/media/card-newone.1193c50a.jpg",
+    "static/media/hero-a.svg": "/static/media/hero-a.2a8153ef.svg"
+  }
+}

@@ -1,0 +1,53 @@
+.login-bg{
+    /* background-color: lightblue; */
+    height: 100vh;
+}
+.login{
+    width: 23%;
+    padding: 10px 40px 40px 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    box-shadow: 0 1px 12px 0 #888888;
+}
+.login h4{
+    margin-bottom: 10px;
+    text-align: center;
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.login input{
+    width: 92%;
+    padding: 10px;
+    margin-top: 20px;
+}
+.login h5{
+    margin-bottom: 0;
+    text-align: center;
+    font-size: 12px;
+}
+.signup-btn{
+    background-color: #5aac44;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.login-btn{
+    background-color: mediumturquoise;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 20px;
+    cursor: pointer;
+}

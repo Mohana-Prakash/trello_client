@@ -1,0 +1,178 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 6px 0;
+}
+.nav-left {
+  display: flex;
+  margin-left: 6px;
+}
+.nav-right {
+  display: flex;
+  margin-right: 6px;
+}
+.board-menu {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 9px 16px;
+  border-radius: 2px;
+}
+.board-menu h4 {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+.board-menu:hover {
+  background: hsla(0, 0%, 100%, 0.24);
+  cursor: pointer;
+}
+.name-menu {
+  margin-left: 6px;
+  width: 12%;
+}
+.name-menu input {
+  outline: none;
+  border: none;
+  text-align: center;
+  width: 100%;
+  padding: 6px;
+  font-weight: 600;
+  background-color: transparent;
+  font-size: 20px;
+  border-radius: 2px;
+  font-family: sans-serif;
+}
+.name-menu input:hover {
+  background: hsla(0, 0%, 100%, 0.24);
+  cursor: pointer;
+}
+.star-menu {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 9px 16px;
+  border-radius: 2px;
+  margin-left: 18px;
+}
+.star-menu h4 {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+.star-menu:hover {
+  background: hsla(0, 0%, 100%, 0.24);
+  cursor: pointer;
+}
+.team-menu {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 9px 10px;
+  border-radius: 2px;
+  margin-left: 6px;
+}
+.team-menu h4 {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+.team-menu:hover {
+  background: hsla(0, 0%, 100%, 0.24);
+  cursor: pointer;
+}
+.team-menu span {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-size: 12px;
+  margin-left: 6px;
+  font-family: sans-serif;
+}
+.teamVisible-menu {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 9px 16px;
+  border-radius: 2px;
+  margin-left: 6px;
+}
+.teamVisible-menu h4 {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+.teamVisible-menu:hover {
+  background: hsla(0, 0%, 100%, 0.24);
+  cursor: pointer;
+}
+.avatar-menu {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 8px 7px;
+  border-radius: 50%;
+  margin-left: 6px;
+  background-color: red;
+}
+.avatar-menu h4 {
+  color: white;
+  font-size: 14px;
+  font-family: sans-serif;
+  margin: 0;
+  font-weight: 600;
+}
+.avatar-menu:hover {
+  cursor: pointer;
+}
+.invite-menu {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 9px 16px;
+  border-radius: 2px;
+  margin-left: 6px;
+}
+.invite-menu h4 {
+  font-size: 14px;
+  margin: 0;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+.invite-menu:hover {
+  background: hsla(0, 0%, 100%, 0.24);
+  cursor: pointer;
+}
+.butler-menu {
+  background: hsla(0, 0%, 100%, 0.24);
+  padding: 9px 16px;
+  border-radius: 2px;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+.butler-menu h4 {
+  font-size: 14px;
+  font-family: sans-serif;
+  margin: 0;
+  font-weight: 600;
+}
+.butler-menu:hover {
+  background: hsla(0, 0%, 100%, 0.24);
+  cursor: pointer;
+}
+.show-menu {
+  background: hsla(0, 0%, 100%, 0.24) !important;
+  padding: 9px 16px;
+  border-radius: 2px;
+  margin-left: 6px;
+}
+.show-menu {
+  text-transform: capitalize !important ;
+  font-size: 14px !important;
+  font-family: sans-serif !important;
+  margin: 0 !important;
+  font-weight: 600 !important;
+}
+.show-menu:hover {
+  cursor: pointer;
+}
+.drawer_heading {
+  margin: 0;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: center;
+  border-bottom: 1px solid black;
+}

@@ -1,0 +1,65 @@
+.trello-logo{
+    width: 14%;
+    margin: 5% 0 0 42%;
+}
+.trello-logo img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.login{
+    width: 30%;
+    background-color: white;
+    padding: 40px;
+    margin: auto ;
+    background-color: transparent;
+}
+.login h1{
+    margin: 0;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+}
+.login-email h3{
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: black;
+}
+.login-email input{
+    border: none;
+    width: 97%;
+    padding: 10px;
+    font-size: 15px;
+    outline: none;
+    border-radius: 3px;
+}
+.login-pass h3{
+    margin-bottom: 5px;
+    font-weight: 600;
+    color: black;
+}
+.login-pass input{
+    width: 97%;
+    padding: 10px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+}
+.login-btn{
+    margin: 30px 22px;
+    padding: 9px;
+    width: 90%;
+    text-align: center;
+    outline: none;
+    border: none;
+    color: black;
+    font-size: 15px;
+    background-color: turquoise;
+    border-radius: 3px;
+}
+.login-btn:hover{
+    background-color: black;
+    color: white;
+    transition: 0.8s;
+}
